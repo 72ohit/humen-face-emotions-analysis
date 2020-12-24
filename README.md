@@ -1,5 +1,5 @@
 # humen-face-emotions and action -analysis
-humen face emotions analysis using dlib and opencv 
+humen face emotions and actions analysis using dlib and opencv 
 
 
 ## How the code works??
